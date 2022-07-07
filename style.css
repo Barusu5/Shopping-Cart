@@ -1,0 +1,22 @@
+header{
+    height: 10vh;
+}
+.generalContainer{
+    height: 90vh;
+}
+
+.productsContainer{
+    overflow: scroll;
+    height: 100%;
+}
+
+.cartContainer{
+    overflow: scroll;
+    height: 100%;
+    background-color: aquamarine;
+}
+
+.productImg{
+   max-width: 300px;
+   max-height: 500px;
+}
